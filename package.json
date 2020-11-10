@@ -1,0 +1,15 @@
+{
+  "name": "com.seneral.nodeeditorframework",
+  "displayName": "Node Editor Framework",
+  "version": "1.0.4",
+  "unity": "2018.1",
+  "description": "A flexible and modular Node Editor Framework for creating node based displays and editors in Unity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beddowdm01/Node_Editor_Framework"
+  },
+  "category": "",
+  "dependencies": {
+    "com.seneral.undopro": "1.0.0"
+  }
+}
